@@ -83,7 +83,7 @@
         <h3>Hi there 👋, I'm level7in</h3>
         <a class="link" target="_blank" href="https://www.level7in.com">
           <img class="logo"
-            src="https://raw.githubusercontent.com/level7in/level7in.github.io/dev/src/img/7in.svg"
+            src="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iNTAwIiBoZWlnaHQ9IjUwMCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KICA8cGF0aCBmaWxsPSJub25lIiBkPSJNMCAwaDUwMHY1MDBIMHoiLz4KICA8Y2lyY2xlIGN4PSIyOTMuNSIgY3k9IjIwOS41IiByPSIxNzguNSIgZmlsbD0idXJsKCNwYWludDBfbGluZWFyKSIgZmlsbC1vcGFjaXR5PSIuNjgiLz4KICA8cGF0aCBkPSJNMzQyLjg0OSA2OC44OEMzMzEuNDU4IDI4LjY1IDI4IDY4Ljg4IDI4IDY4Ljg4bDUzLjQ2NyA3Ni4wNjloMTA5LjE5OFM4OC4yNDcgMjg1LjU4NSA4MS40NjcgMzI1LjM1OWMtNi43OCAzOS43NzUgMjguMDkzIDEzNi4yNCAyOC4wOTMgMTM2LjI0UzM1NC4yNCAxMDkuMTEzIDM0Mi44NDkgNjguODgxem0tODkuNzYxIDI1Ni40NzlDMjY5Ljk0NiAyODQuMjEzIDQwMy41IDY4Ljg4MSA0MDMuNSA2OC44ODFTNDQzIDk0LjUgNDYyLjUgMTUyIDI4Ny4yNjEgNDY4IDI4Ny4yNjEgNDY4cy01MS4wMzItMTAxLjQ5NC0zNC4xNzMtMTQyLjY0MXoiIGZpbGw9IiNmZmYiLz4KICA8ZGVmcz4KICAgIDxsaW5lYXJHcmFkaWVudCBpZD0icGFpbnQwX2xpbmVhciIgeDE9IjU3LjUiIHkxPSI0MjEuNSIgeDI9IjUxMyIgeTI9Ii0yNyIgZ3JhZGllbnRVbml0cz0idXNlclNwYWNlT25Vc2UiPgogICAgICA8c3RvcCBzdG9wLWNvbG9yPSIjRTVFNUU1Ii8+CiAgICAgIDxzdG9wIG9mZnNldD0iMSIgc3RvcC1jb2xvcj0iI2ZmZiIgc3RvcC1vcGFjaXR5PSIwIi8+CiAgICA8L2xpbmVhckdyYWRpZW50PgogIDwvZGVmcz4KPC9zdmc+"
             alt="logo" />
         </a>
         <div class="description">
