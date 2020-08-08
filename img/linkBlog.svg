@@ -39,20 +39,7 @@
           height: 4rem;
           margin: 0;
           flex: 1;
-          animation: dance 3s linear 0s infinite normal none running;
-        }
-
-        .link {
-          position: relative;
-        }
-
-        .link::after {
-          content: 'www.level7in.com';
-          position: absolute;
-          color: #fafafa;
-          left: 50%;
-          transform: translate(-50%, -30%);
-          animation: down 3s linear 0s infinite normal none running;
+          animation: dance 2.5s linear 0s infinite normal none running;
         }
 
         @keyframes sheen {
@@ -80,19 +67,6 @@
           }
         }
 
-        @keyframes down {
-          0% {
-            color: #fafafa;
-          }
-
-          50% {
-            color: transparent;
-          }
-
-          100% {
-            color: #fafafa;
-          }
-        }
       </style>
       <div class="content">
         <h3>Hi there 👋, I'm level7in</h3>
