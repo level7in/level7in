@@ -1,4 +1,4 @@
-<a href="https://www.level7in.com" target="_blank">
+<a target="_blank" href="https://www.level7in.com">
   <img src="https://raw.githubusercontent.com/level7in/level7in/master/img/linkBlog.svg" width = "100%" />
 </a>
 
