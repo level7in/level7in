@@ -1,4 +1,4 @@
-<img src="./img/linkBlog.svg" width = "100%" />
+<img src="https://raw.githubusercontent.com/level7in/level7in/master/img/linkBlog.svg" width = "100%" />
 <!--
 **level7in/level7in** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
